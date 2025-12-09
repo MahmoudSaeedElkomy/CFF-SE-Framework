@@ -1,4 +1,3 @@
-# CFF-SE-Framework[README.md](https://github.com/user-attachments/files/24058720/README.md)
 # 🛡️ Cognitive Fortress Framework: Sovereign Edition (CFF-SE v1.2)
 
 > **A Deterministic Metacognitive Layer for LLM Governance & Alignment.**
@@ -16,7 +15,7 @@ CFF-SE is not just another LLM prompt; it is a **software architecture** designe
 ## 🏗️ Architecture
 The system operates as a **State Graph**:
 ```mermaid
-graph LRs
+graph LR
     Input --> Generator
     Generator --> Governance[MEO/CFA Audit]
     Governance -- "Reject (<95%)" --> Generator
