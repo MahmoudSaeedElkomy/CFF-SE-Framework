@@ -1,0 +1,3 @@
+# Requirements for Cognitive Fortress Framework
+# Core dependencies would go here if needed
+# For now, the framework runs with standard Python libraries
